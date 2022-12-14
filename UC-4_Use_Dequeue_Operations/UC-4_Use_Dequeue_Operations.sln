@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC-4_Use_Dequeue_Operations", "UC-4_Use_Dequeue_Operations.csproj", "{EC764923-2B79-4791-88A1-551E447E328F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC764923-2B79-4791-88A1-551E447E328F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC764923-2B79-4791-88A1-551E447E328F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC764923-2B79-4791-88A1-551E447E328F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC764923-2B79-4791-88A1-551E447E328F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D55392D4-0EF3-4268-8612-68AC35203F79}
+	EndGlobalSection
+EndGlobal
